@@ -1,4 +1,4 @@
-# Introduction to ML\\
+# Introduction to ML
 
 Libraries used:
 1. Data Visualization - *Matplotlib* and *Seaborn*
